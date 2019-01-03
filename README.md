@@ -14,8 +14,6 @@
 - Set the selected image.
 - Move or rotate the image inside the defined UIView with two fingers.
 - Zoom in or Zoom out the image inside the same view.
-
-![enter image description here](https://www.cmarix.com/git/Mobile/Gesture-IOS/Screenshot.gif)
    
 ## Purpose of this code  ##
 - Many developers are facing a issue to move the image inside UIView without scrollview. To overcome this scenario, we have prepared this code for the iOS developer to make their life easy.
