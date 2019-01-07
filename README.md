@@ -1,5 +1,5 @@
 # Gesture-IOS #
-<a target="_blank" href="LICENSE.md"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
+<a target="_blank" href="LICENSE"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
 <a target="_blank" href="https://www.cmarix.com/ios-app-development-company-india.html"><img src="https://img.shields.io/badge/platform-iOS-blue.svg" alt="platform : iOS"></a>
 
 ## Core Features ##
